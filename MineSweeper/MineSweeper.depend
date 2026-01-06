@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1767698655 source:d:\code\大一上c语言课\minesweeper\test.c
+	"game.h"
+
+1767697914 d:\code\大一上c语言课\minesweeper\game.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1767698627 source:d:\code\大一上c语言课\minesweeper\game.c
+	"game.h"
+
